@@ -30,6 +30,8 @@
 
         1.  Создать соединение для бакета в S3 хранилище
 
+![1](https://github.com/EkaterinaBriskova/Yandex_Query/assets/90749103/62d66e70-c339-4934-aee0-7870b866e2c3)
+
 ![Alt text](1.png)
 
         2.  Заполняем поля с учетом допустимых символов, 
